@@ -43,7 +43,9 @@ Describe any challenges encountered while building the app.
 ## App Idea:
 - I want to build an iOS app that helps people restrict their access to social media such as Facebook, Instagram, YouTube, X, etc.
   The app aims to help users not get distracted from their work and study. However, my app has to be a little more strict than the
-  current apps available on the App Store. For example, once you set an app to the block list, you can't go into the settings and unblock that app. Even when you choose to unblock, you have to wait until tomorrow for the update to take effect. This helps stop user from the instant gratification impulse and reminds them of the value of every hour in their day (a personal message feature: make an API call to ChatGPT to generate dynamic motivational and personal messages). 
+  current apps available on the App Store. For example, once you set an app to the block list, you can't go into the settings and unblock that app. Even when you choose to unblock, you have to wait until tomorrow for the update to take effect. This helps stop user from the instant gratification impulse and reminds them of the value of every hour in their day (a personal message feature: make an API call to ChatGPT to generate dynamic motivational and personal messages).
+
+![gif app demo](https://imgur.com/a/h7lww4a)
 ## License
 
     Copyright [2025] [Nguyen Phuc Nguyen]
