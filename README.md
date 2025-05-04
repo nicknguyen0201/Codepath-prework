@@ -2,7 +2,7 @@
 
 Submitted by: **Nick Nguyen**
 
-**Suprise** is an app that randomly change color based on user's request [TODO] 
+**Suprise** is an app that randomly change color based on user's request.
 
 Time spent: **2** hours spent in total
 
